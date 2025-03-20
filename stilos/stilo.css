@@ -1,0 +1,31 @@
+head {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 10vh;
+    background: linear-gradient(150deg,#000000, #3eae19 );
+}
+body{
+    min-height: 100vh;
+    background: linear-gradient(150deg,#cfdd14, #c753a3 );
+}
+h1{
+    font-size: 70px;
+    text-align: center;
+}
+
+p{
+    font-size: 25px;
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2{
+    font-size: 40px;
+    text-align: center;
+}
